@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "name": "The small details in a greeting",
+  "text": "Café 🙂 👩‍💻 🇬🇧\n",
+  "normalization": "none",
+  "provenance": {
+    "project": "vue-unicode-inspector",
+    "author": "CodeSculptor",
+    "marker": "UN-12D49763"
+  }
+}
